@@ -5,11 +5,19 @@ using TMPro;
 
 public class Botoes : MonoBehaviour
 {
-    public GameObject botao, caixa;
+    public GameObject botao, caixa, campos, campo;
     public List<Bloco> blocos;
 
     private void Start()
     {
+        for (int i = 0; i < blocos.Count; i++)
+        {
+            campo.GetComponent<BlocoCampo>().resposta = blocos[i].grupo;
+            GameObject obj = Instantiate(campo, campos.transform.position, campos.transform.rotation);
+            obj.transform.SetParent(campos.transform, false);
+            obj.name = blocos[i].name;
+        }
+
         for (int i = 0; i < blocos.Count; i++)
         {
             Bloco temp = blocos[i];
