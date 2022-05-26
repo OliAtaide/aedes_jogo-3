@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: A1-2
   m_EditorClassIdentifier: 
-  grupo: A1
+  grupo: A1-2
   texto: "Articula\xE7\xE3o com a empresa de abas- tecimento de \xE1gua visando ampliar
     a rede e regularizaro fornecimento."

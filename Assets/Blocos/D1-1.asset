@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: D1-1
   m_EditorClassIdentifier: 
-  grupo: D1
+  grupo: D1-1
   texto: "Pneus e outros materiais rodantes (c\xE2mera de ar, manch\xF5es).\r"

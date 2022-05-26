@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: D1-3
   m_EditorClassIdentifier: 
-  grupo: D1
+  grupo: D1-3
   texto: "Instruir para que sejam encamin- hados para descarte adequado, se indispens\xE1veis,
     proteger.\r\nTratar como \xFAltima alternativa.\r"

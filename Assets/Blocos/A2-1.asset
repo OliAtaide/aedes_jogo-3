@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: A2-1
   m_EditorClassIdentifier: 
-  grupo: A2
+  grupo: A2-1
   texto: "Dep\xF3sitos em obras e horticultura.\r Dep\xF3sitos ao n\xEDvel do solo
-    para armazena- mento dom\xE9stico: tonel, tambor, barril, tina, dep\xF3sitos
-    de barros (filtros, moringas, potes) cisternas, caixa d\u2019\xE1gua, capita\xE7\xE3o
+    para armazenamento dom\xE9stico: tonel, tambor, barril, tina, dep\xF3sitos de
+    barros (filtros, moringas, potes) cisternas, caixa d\u2019\xE1gua, capita\xE7\xE3o
     de \xE1gua (po\xE7o, cacimba).\r"

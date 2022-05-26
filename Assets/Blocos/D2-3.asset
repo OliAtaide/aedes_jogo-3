@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: D2-3
   m_EditorClassIdentifier: 
-  grupo: D2
+  grupo: D2-3
   texto: "Lixo/entulho: instruir sobre destino adequado. N\xE3o tratar. Sucatas em
     PE e p\xE1tios, se indispens\xE1veis, proteger sob cobertura. Tratamento qu\xEDmico
     conforme indicado."

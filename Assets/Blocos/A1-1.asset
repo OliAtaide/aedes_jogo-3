@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: A1-1
   m_EditorClassIdentifier: 
-  grupo: A1
+  grupo: A1-1
   texto: "Caixa d\u2019 \xE1gua elevada ligada \xE0 rede p\xFAblica e/ou sistema
     de abastecimento particular (po\xE7o, cisterna, mina)"

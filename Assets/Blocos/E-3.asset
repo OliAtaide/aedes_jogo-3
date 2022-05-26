@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: E-3
   m_EditorClassIdentifier: 
-  grupo: E
+  grupo: E-3
   texto: "\rInstruir para evitar ac\xFAmulo de \xE1gua em folhas. Tampar buracos
     em \xE1rvores. Encaminhar para destino adequado. N\xE3o tratar.\r"

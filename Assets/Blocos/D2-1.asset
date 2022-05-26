@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: D2-1
   m_EditorClassIdentifier: 
-  grupo: D2
+  grupo: D2-1
   texto: "\rLixo (recipientes pl\xE1sticos, latas) sucatas\r em p\xE1tios e ferro
     velhos, entulhos.\n"

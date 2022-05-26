@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: B-1
   m_EditorClassIdentifier: 
-  grupo: B
+  grupo: B-1
   texto: "Vasos/frascos com \xE1gua, prato, pingadeira, recipiente de degelo de refrigeradores,
     bebedouros, pequenas fontes ornamentais."

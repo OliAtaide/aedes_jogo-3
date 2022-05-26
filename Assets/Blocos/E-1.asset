@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: E-1
   m_EditorClassIdentifier: 
-  grupo: E
+  grupo: E-1
   texto: "Folhas de brom\xE9lias, ocos em \xE1rvores, buracos em rochas, restos de
     animais (cascas, carapa\xE7as).\r"

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: B-3
   m_EditorClassIdentifier: 
-  grupo: B
+  grupo: B-3
   texto: "Orientar para vistoria/lavagem com freq\xFC\xEAncia; prote\xE7\xE3o, coloca\xE7\xE3o\r\nde
     areia. N\xE3o tratar.\r"

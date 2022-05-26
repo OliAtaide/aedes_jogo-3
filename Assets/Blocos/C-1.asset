@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ccd0fda23a78cc42835ab0df9485f9e, type: 3}
   m_Name: C-1
   m_EditorClassIdentifier: 
-  grupo: C
+  grupo: C-1
   texto: "\rCalhas, ralos, sanit\xE1rios (em desuso), tanques em obras/borracharias,
     m\xE1quinas/equip. em p\xE1tios, piscinas e fontes ornamentais, floreiras em
     cemit\xE9rios, cacos de vidro em muros.\r"
