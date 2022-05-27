@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -7,6 +8,7 @@ public class Botoes : MonoBehaviour
 {
     public GameObject botao, caixa, campos, campo;
     public List<Bloco> blocos;
+    GameObject[] campoObjs;
 
     private void Start()
     {
@@ -35,6 +37,36 @@ public class Botoes : MonoBehaviour
             GameObject obj = Instantiate(botao, transform.position, transform.rotation);
             obj.transform.SetParent(transform, false);
             obj.name = blocos[i].name;
+        }
+    }
+
+    public bool todasRespondidas()
+    {
+        for (int i = 0; i < blocos.Count; i++)
+        {
+            if (!campoObjs[i].GetComponent<BlocoCampo>().isFull)
+            {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public void checarRespostas()
+    {
+        campoObjs = GameObject.FindGameObjectsWithTag("Campo");
+
+        if (todasRespondidas())
+        {
+            foreach (var i in campoObjs)
+            {
+                BlocoCampo campo = i.GetComponent<BlocoCampo>();
+                Image image = i.GetComponent<Image>();
+                if (campo.resposta == campo.bloco.grupo)
+                {
+                    image.color = new Color32(70, 219, 0, 255);
+                }
+            }
         }
     }
 

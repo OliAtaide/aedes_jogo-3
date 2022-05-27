@@ -8,7 +8,7 @@ public class BlocoCampo : MonoBehaviour
     public string resposta;
     public Bloco bloco;
 
-    bool isFull;
+    public bool isFull;
 
     public Button getBotao()
     {
