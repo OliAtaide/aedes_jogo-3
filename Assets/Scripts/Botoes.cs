@@ -70,4 +70,20 @@ public class Botoes : MonoBehaviour
         }
     }
 
+    public void tentarNovamente(){
+        GameObject[] botoes = GameObject.FindGameObjectsWithTag("Botao");
+        foreach (var i in botoes)
+        {
+            i.GetComponent<Button>().interactable = true;
+        }
+        
+        campoObjs = GameObject.FindGameObjectsWithTag("Campo");
+        foreach (var i in campoObjs)
+        {
+            i.GetComponent<Image>().color = new Color32(255, 255, 255, 255);
+            i.transform.GetChild(0).GetComponent<TextMeshProUGUI>().text = "";
+            i.GetComponent<BlocoCampo>().isFull = false;
+        }
+    }
+
 }
