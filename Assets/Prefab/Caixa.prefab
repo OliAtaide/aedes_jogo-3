@@ -69,8 +69,8 @@ MonoBehaviour:
   m_text: "Garantir o cumprimento das resolu\xE7\xF5es Conama 258/99 e 301/02 e articular
     com as empresas produtoras o recolhimento dos pneum\xE1ticos inserv\xEDveis."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -94,7 +94,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 19.95
+  m_fontSize: 20
   m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 1

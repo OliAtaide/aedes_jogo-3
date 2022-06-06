@@ -702,8 +702,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: C
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
-  m_sharedMaterial: {fileID: 8135284836450192602, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -993,8 +993,8 @@ MonoBehaviour:
     para associar o conte\xFAdo abaixo \xE0 sua respectiva coluna. Depois que terminar,
     clique em \u2018Verificar\u2019 para saber quais voc\xEA acertou."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
-  m_sharedMaterial: {fileID: 8135284836450192602, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1587,8 +1587,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: E
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
-  m_sharedMaterial: {fileID: 8135284836450192602, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1722,8 +1722,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: B
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
-  m_sharedMaterial: {fileID: 8135284836450192602, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2039,8 +2039,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Grupo
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2174,8 +2174,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "A\xE7\xE3o Imediata"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2346,8 +2346,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: '<b>Unidade 5: </b>Controle de Aegypti no Brasil'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2559,8 +2559,8 @@ MonoBehaviour:
   m_text: "<b>M\xF3dulo:</b> Biologia, monitoramento e controle de Aedes aegypti\n<b>Conteudistas:</b>
     Renata Antonaci Gama, Taciano de Moura Barbosa"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2771,8 +2771,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Tentar Novamente
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3192,8 +3192,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: D1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
-  m_sharedMaterial: {fileID: 8135284836450192602, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3537,7 +3537,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1358131977}
   m_HandleRect: {fileID: 1358131976}
   m_Direction: 2
-  m_Value: 0.9999999
+  m_Value: 0.99999976
   m_Size: 0.29333332
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -3641,8 +3641,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "A\xE7\xF5es Intersetoriais"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4147,8 +4147,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Tipos de Recipiente/ Dep\xF3sitos"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4282,8 +4282,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: A2
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
-  m_sharedMaterial: {fileID: 8135284836450192602, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4454,8 +4454,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: A1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
-  m_sharedMaterial: {fileID: 8135284836450192602, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4819,8 +4819,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Verificar
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5019,8 +5019,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: D2
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
-  m_sharedMaterial: {fileID: 8135284836450192602, guid: b261b8776c7b5a74ba9345fa77623929, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5587,8 +5587,8 @@ MonoBehaviour:
   m_text: "FIGURA INTERATIVA 3 - Classifica\xE7\xE3o dos dep\xF3sitos e a\xE7\xF5es
     preconizadas"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
+  m_sharedMaterial: {fileID: -1808359781926953588, guid: 3ff24045380c20542b01189bb9c433a3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
