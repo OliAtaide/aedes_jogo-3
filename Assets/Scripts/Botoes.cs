@@ -6,7 +6,7 @@ using TMPro;
 
 public class Botoes : MonoBehaviour
 {
-    public GameObject botao, caixa, campos, campo;
+    public GameObject botao, caixa, campos, campo, botaoVerificar, botaoTentarNovamente;
     public List<Bloco> blocos;
     GameObject[] campoObjs;
 
@@ -38,6 +38,9 @@ public class Botoes : MonoBehaviour
             obj.transform.SetParent(transform, false);
             obj.name = blocos[i].name;
         }
+
+        botaoVerificar.SetActive(true);
+        botaoTentarNovamente.SetActive(false);
     }
 
     public bool todasRespondidas()
@@ -64,19 +67,25 @@ public class Botoes : MonoBehaviour
                 Image image = i.GetComponent<Image>();
                 if (campo.resposta == campo.bloco.grupo)
                 {
-                    image.color = new Color32(70, 219, 0, 255);
+                    image.color = new Color32(70, 220, 0, 255);
+                }
+                else{
+                    image.color = new Color32(220, 70, 0, 255);
                 }
             }
+            botaoVerificar.SetActive(false);
+            botaoTentarNovamente.SetActive(true);
         }
     }
 
-    public void tentarNovamente(){
+    public void tentarNovamente()
+    {
         GameObject[] botoes = GameObject.FindGameObjectsWithTag("Botao");
         foreach (var i in botoes)
         {
             i.GetComponent<Button>().interactable = true;
         }
-        
+
         campoObjs = GameObject.FindGameObjectsWithTag("Campo");
         foreach (var i in campoObjs)
         {
@@ -84,6 +93,9 @@ public class Botoes : MonoBehaviour
             i.transform.GetChild(0).GetComponent<TextMeshProUGUI>().text = "";
             i.GetComponent<BlocoCampo>().isFull = false;
         }
+
+        botaoVerificar.SetActive(true);
+        botaoTentarNovamente.SetActive(false);
     }
 
 }

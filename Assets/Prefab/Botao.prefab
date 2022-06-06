@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3357803797245814394}
   m_Layer: 5
   m_Name: Botao
-  m_TagString: Untagged
+  m_TagString: Botao
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -163,9 +163,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b057013948c88f45905237ad60ba62c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bloco: {fileID: 0}
+  bloco: {fileID: 11400000, guid: 26e123947df07b0459b4fc3aee4c3053, type: 2}
   pai: {fileID: 0}
-  caixa: {fileID: 0}
+  caixa: {fileID: 5849457199529331837, guid: 922f3ef68b9c4d64ba0b58dfed696537, type: 3}
 --- !u!1 &7516753748678388670
 GameObject:
   m_ObjectHideFlags: 0
@@ -232,7 +232,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 0
+  m_text: 21
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
